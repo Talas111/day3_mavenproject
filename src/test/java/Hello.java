@@ -19,6 +19,7 @@ public class Hello {
 
         System.out.println("Today is May 27 , tomorrow my daughters birthday! ");
         System.out.println("I love my her so much! hope My kids will be happy! healthy! and they will have long live!");
+        System.out.println("I wanna get job in IT industry hope i can do it! INSHAAALLAH!");
 
 
     }
